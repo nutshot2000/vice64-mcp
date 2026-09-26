@@ -78,3 +78,7 @@ vice_assemble { "path": ".../examples/neonraid/neonraid.asm" }
 ```
 
 Or just drop `neonraid.prg` onto VICE. Default keys are O/P/Q/A and Space, or use a joystick in port 2. F1 on the title screen redefines the keys.
+
+## License
+
+MIT. Free for anyone to use, modify and share. See [LICENSE](LICENSE).
